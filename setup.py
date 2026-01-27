@@ -27,7 +27,7 @@ setup(
         "elasticsearch[async]==8.10.1",
         "fastapi==0.104.0",
         "uvicorn[standard]==0.23.2",
-        "python-multipart==0.0.6",
+        "python-multipart==0.0.22",
         "email-validator==2.0.0.post1",
         "structlog==23.2.0",
         "pyicu==2.12",
